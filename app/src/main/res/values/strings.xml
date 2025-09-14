@@ -12,5 +12,9 @@ extraction.)</string>
     <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
 espresso with steamed milk and only a little milk foam poured over it. Serve in a
 latte glass or a coffee cup. Flavored syrup can be added.</string>
+    <string name="cappuccino_title">CAPPUCCINO</string>
+    <string name="cappuccino_desc">Equal parts espresso, steamed milk, and milk foam (about 150-180 ml). Served in a cappuccino cup. The foam should be thick enough to hold the powder on top.</string>
+    <string name="espresso_title">ESPRESSO</string>
+    <string name="espresso_desc">A short, strong coffee (25-30 ml) made by forcing hot water through finely ground coffee under high pressure. Served in a small espresso cup or glass.</string>
     <string name="coffee_list">Coffee List</string>
 </resources>
